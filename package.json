@@ -1,0 +1,15 @@
+{
+  "name": "warp-example",
+  "scripts": {
+    "dev": "podlet-dev"
+  },
+  "type": "module",
+  "dependencies": {
+    "@podium/experimental-fastify-podlet-server": "^0.0.8",
+    "@podium/experimental-lit-base-class": "^0.0.3",
+    "@unocss/core": "^0.50.4",
+    "@warp-ds/uno": "^0.0.15",
+    "lightningcss": "^1.19.0",
+    "lit": "^2.6.1"
+  }
+}
